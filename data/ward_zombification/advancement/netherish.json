@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "triggered_by_set_immune": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "title": {
+      "text": "Home Away From Home"
+    },
+    "description": {
+      "text": "Enclose a displaced Piglin or Hoglin in familiar surroundings"
+    },
+    "icon": {
+      "id": "minecraft:crimson_hanging_sign"
+    },
+    "hidden": true
+  }
+}
