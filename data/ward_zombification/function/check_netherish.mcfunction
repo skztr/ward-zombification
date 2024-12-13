@@ -10,7 +10,7 @@ execute as \
   at @s \
   unless dimension minecraft:the_nether \
   unless predicate ward_zombification:netherish \
-  run data merge entity @s {IsImmuneToZombification:false}
+  run data remove entity @s IsImmuneToZombification
 
 execute as \
   @e[type=piglin,nbt=!{IsImmuneToZombification:true}] \
@@ -24,6 +24,6 @@ execute as \
   at @s \
   unless dimension minecraft:the_nether \
   unless predicate ward_zombification:netherish \
-  run data merge entity @s {IsImmuneToZombification:false}
+  run data remove entity @s IsImmuneToZombification
 
 schedule function ward_zombification:check_netherish 100t
