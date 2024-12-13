@@ -1,0 +1,20 @@
+{
+  "condition": "all_of",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "can_see_sky": false
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetY": -1,
+      "predicate": {
+        "block": {
+          "blocks": "#ward_zombification:prevents_nether_zombification"
+        }
+      }
+    }
+  ]
+}

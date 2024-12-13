@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:crimson_stems",
+    "#minecraft:nylium",
+    "#minecraft:warped_stems",
+    "#minecraft:wart_blocks",
+    "minecraft:crimson_fungus",
+    "minecraft:crimson_planks",
+    "minecraft:crimson_roots",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_wart",
+    "minecraft:shroomlight",
+    "minecraft:twisting_vines",
+    "minecraft:warped_button",
+    "minecraft:warped_door",
+    "minecraft:warped_fence_gate",
+    "minecraft:warped_fence",
+    "minecraft:warped_fungus",
+    "minecraft:warped_hanging_sign",
+    "minecraft:warped_planks",
+    "minecraft:warped_pressure_plate",
+    "minecraft:warped_roots",
+    "minecraft:warped_sign",
+    "minecraft:warped_slab",
+    "minecraft:warped_stairs",
+    "minecraft:warped_trapdoor",
+    "minecraft:weeping_vines"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "values": [
+    "#minecraft:base_stone_nether",
+    "#minecraft:guarded_by_piglins",
+    "#ward_zombification:blackstone",
+    "#ward_zombification:hot",
+    "#ward_zombification:nether_bricks",
+    "#ward_zombification:nether_nature",
+    "#ward_zombification:nether_ore",
+    "#ward_zombification:quartz",
+    "minecraft:ancient_debris",
+    "minecraft:air",
+    "minecraft:crying_obsidian",
+    "minecraft:glowstone",
+    "minecraft:netherite_block",
+    "minecraft:obsidian",
+    "minecraft:respawn_anchor",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil"
+  ]
+}
